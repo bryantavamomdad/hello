@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dos Pueblos High School Navigator",
+  "description": "An interactive campus map for Dos Pueblos High School with room search, building categories, and teacher information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
